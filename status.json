@@ -1,0 +1,18 @@
+[
+    {
+      name: "Shipped",
+      value: 21,
+    },
+    {
+      name: "Processing",
+      value: 2,
+    },
+    {
+      name: "Delivered",
+      value: 40,
+    },
+    {
+      name: "Lost",
+      value: 3,
+    },
+  ];
