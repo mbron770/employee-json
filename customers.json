@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Northeast",
+    "data": [5000]
+  },
+  {
+    "name": "Southwest",
+    "data": [5550]
+  },
+  {
+    "name": "West",
+    "data": [7890]
+  },
+  {
+    "name": "Midwest",
+    "data": [12000]
+  },
+  {
+    "name": "Northwest",
+    "data": [3227]
+  },
+  {
+    "name": "Southeast",
+    "data": [1090]
+  },
+  {
+    "name": "Alaska",
+    "data": [100]
+  },
+  {
+    "name": "Canada",
+    "data": [10000]
+  }
+]
