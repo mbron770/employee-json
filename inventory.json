@@ -1,0 +1,502 @@
+[
+  {
+    "item": "Abbott, Rodriguez and Padilla Speaker",
+    "quantity": 452,
+    "targetQuantity": 867
+  },
+  {
+    "item": "Daniels, Fernandez and Edwards Printer",
+    "quantity": 229,
+    "targetQuantity": 794
+  },
+  {
+    "item": "Keith-Rivera Speaker",
+    "quantity": 365,
+    "targetQuantity": 283
+  },
+  {
+    "item": "Vaughn Ltd Phone",
+    "quantity": 220,
+    "targetQuantity": 271
+  },
+  {
+    "item": "Burns-Harrison Phone",
+    "quantity": 923,
+    "targetQuantity": 940
+  },
+  {
+    "item": "Mcmillan-Kelly Headphones",
+    "quantity": 464,
+    "targetQuantity": 247
+  },
+  {
+    "item": "Ward Group Keyboard",
+    "quantity": 290,
+    "targetQuantity": 848
+  },
+  {
+    "item": "Lawson, Savage and Durham Tablet",
+    "quantity": 215,
+    "targetQuantity": 535
+  },
+  {
+    "item": "Russell-Cameron Keyboard",
+    "quantity": 365,
+    "targetQuantity": 772
+  },
+  {
+    "item": "Fletcher Inc Tablet",
+    "quantity": 226,
+    "targetQuantity": 977
+  },
+  {
+    "item": "Wells-Chase Camera",
+    "quantity": 325,
+    "targetQuantity": 312
+  },
+  {
+    "item": "Ayala-Landry Watch",
+    "quantity": 372,
+    "targetQuantity": 988
+  },
+  {
+    "item": "Adams-Edwards Keyboard",
+    "quantity": 336,
+    "targetQuantity": 291
+  },
+  {
+    "item": "Trujillo, Diaz and Arroyo Tablet",
+    "quantity": 240,
+    "targetQuantity": 330
+  },
+  {
+    "item": "Wheeler-Hubbard Phone",
+    "quantity": 342,
+    "targetQuantity": 301
+  },
+  {
+    "item": "Bell Ltd Watch",
+    "quantity": 643,
+    "targetQuantity": 787
+  },
+  {
+    "item": "Wade-Rice Mouse",
+    "quantity": 317,
+    "targetQuantity": 921
+  },
+  {
+    "item": "Myers LLC Phone",
+    "quantity": 276,
+    "targetQuantity": 100
+  },
+  {
+    "item": "Lee-Mcneil Keyboard",
+    "quantity": 854,
+    "targetQuantity": 171
+  },
+  {
+    "item": "Edwards, Hall and Macias Printer",
+    "quantity": 693,
+    "targetQuantity": 118
+  },
+  {
+    "item": "Wyatt, Moore and Mejia Phone",
+    "quantity": 764,
+    "targetQuantity": 110
+  },
+  {
+    "item": "Mcbride-Stewart Keyboard",
+    "quantity": 755,
+    "targetQuantity": 260
+  },
+  {
+    "item": "Cardenas, Mejia and Walker Watch",
+    "quantity": 576,
+    "targetQuantity": 374
+  },
+  {
+    "item": "Soto, Brown and Curry Printer",
+    "quantity": 412,
+    "targetQuantity": 554
+  },
+  {
+    "item": "Elliott LLC Printer",
+    "quantity": 557,
+    "targetQuantity": 216
+  },
+  {
+    "item": "Brown-Evans Laptop",
+    "quantity": 716,
+    "targetQuantity": 265
+  },
+  {
+    "item": "Phillips LLC Headphones",
+    "quantity": 483,
+    "targetQuantity": 288
+  },
+  {
+    "item": "Anderson-Pena Keyboard",
+    "quantity": 546,
+    "targetQuantity": 131
+  },
+  {
+    "item": "Maxwell Group Phone",
+    "quantity": 684,
+    "targetQuantity": 909
+  },
+  {
+    "item": "Wheeler Group Mouse",
+    "quantity": 336,
+    "targetQuantity": 463
+  },
+  {
+    "item": "Wallace-Bryant Printer",
+    "quantity": 577,
+    "targetQuantity": 685
+  },
+  {
+    "item": "Miller-Stafford Keyboard",
+    "quantity": 724,
+    "targetQuantity": 748
+  },
+  {
+    "item": "Patel Group Mouse",
+    "quantity": 305,
+    "targetQuantity": 174
+  },
+  {
+    "item": "Johnson, Williams and Mendez Headphones",
+    "quantity": 771,
+    "targetQuantity": 170
+  },
+  {
+    "item": "Schroeder, Patel and Phillips Mouse",
+    "quantity": 852,
+    "targetQuantity": 350
+  },
+  {
+    "item": "Li, Moore and Shaffer Speaker",
+    "quantity": 488,
+    "targetQuantity": 754
+  },
+  {
+    "item": "Wang Group Phone",
+    "quantity": 159,
+    "targetQuantity": 317
+  },
+  {
+    "item": "Smith, Vega and Jones Tablet",
+    "quantity": 924,
+    "targetQuantity": 633
+  },
+  {
+    "item": "Webb-Willis Phone",
+    "quantity": 122,
+    "targetQuantity": 369
+  },
+  {
+    "item": "Gardner Group Laptop",
+    "quantity": 144,
+    "targetQuantity": 195
+  },
+  {
+    "item": "Steele Ltd Mouse",
+    "quantity": 621,
+    "targetQuantity": 858
+  },
+  {
+    "item": "Parrish-Long Watch",
+    "quantity": 334,
+    "targetQuantity": 710
+  },
+  {
+    "item": "Chase PLC Headphones",
+    "quantity": 260,
+    "targetQuantity": 607
+  },
+  {
+    "item": "Lindsey LLC Headphones",
+    "quantity": 287,
+    "targetQuantity": 831
+  },
+  {
+    "item": "Ross, Miller and Bush Watch",
+    "quantity": 825,
+    "targetQuantity": 100
+  },
+  {
+    "item": "Ramirez-Jones Phone",
+    "quantity": 774,
+    "targetQuantity": 604
+  },
+  {
+    "item": "Smith-Howe Mouse",
+    "quantity": 844,
+    "targetQuantity": 521
+  },
+  {
+    "item": "Delacruz and Sons Laptop",
+    "quantity": 985,
+    "targetQuantity": 844
+  },
+  {
+    "item": "Owens-Alexander Watch",
+    "quantity": 865,
+    "targetQuantity": 725
+  },
+  {
+    "item": "Montes-Jordan Camera",
+    "quantity": 894,
+    "targetQuantity": 135
+  },
+  {
+    "item": "Walker Ltd Printer",
+    "quantity": 472,
+    "targetQuantity": 633
+  },
+  {
+    "item": "Dougherty, Saunders and Oneill Tablet",
+    "quantity": 395,
+    "targetQuantity": 844
+  },
+  {
+    "item": "Chung-Suarez Mouse",
+    "quantity": 422,
+    "targetQuantity": 711
+  },
+  {
+    "item": "Fox-Burgess Phone",
+    "quantity": 861,
+    "targetQuantity": 582
+  },
+  {
+    "item": "Smith Group Camera",
+    "quantity": 125,
+    "targetQuantity": 350
+  },
+  {
+    "item": "Huber Ltd Phone",
+    "quantity": 726,
+    "targetQuantity": 462
+  },
+  {
+    "item": "Williams, Garcia and Jones Laptop",
+    "quantity": 656,
+    "targetQuantity": 121
+  },
+  {
+    "item": "Bell Inc Laptop",
+    "quantity": 771,
+    "targetQuantity": 944
+  },
+  {
+    "item": "Wilson-Reed Camera",
+    "quantity": 641,
+    "targetQuantity": 715
+  },
+  {
+    "item": "Ray, Kennedy and Riley Laptop",
+    "quantity": 701,
+    "targetQuantity": 644
+  },
+  {
+    "item": "Brown-Wilson Tablet",
+    "quantity": 855,
+    "targetQuantity": 574
+  },
+  {
+    "item": "Smith LLC Camera",
+    "quantity": 719,
+    "targetQuantity": 577
+  },
+  {
+    "item": "Wilson Group Watch",
+    "quantity": 692,
+    "targetQuantity": 173
+  },
+  {
+    "item": "Ramos Inc Watch",
+    "quantity": 532,
+    "targetQuantity": 963
+  },
+  {
+    "item": "Flores-Caldwell Watch",
+    "quantity": 105,
+    "targetQuantity": 951
+  },
+  {
+    "item": "Simmons-Smith Tablet",
+    "quantity": 493,
+    "targetQuantity": 786
+  },
+  {
+    "item": "Stevenson PLC Keyboard",
+    "quantity": 796,
+    "targetQuantity": 443
+  },
+  {
+    "item": "Wagner PLC Printer",
+    "quantity": 396,
+    "targetQuantity": 723
+  },
+  {
+    "item": "Frey, Moore and Richmond Phone",
+    "quantity": 170,
+    "targetQuantity": 374
+  },
+  {
+    "item": "York, Lamb and Williams Speaker",
+    "quantity": 625,
+    "targetQuantity": 232
+  },
+  {
+    "item": "Jackson-Martinez Phone",
+    "quantity": 306,
+    "targetQuantity": 936
+  },
+  {
+    "item": "Smith-Robinson Speaker",
+    "quantity": 933,
+    "targetQuantity": 434
+  },
+  {
+    "item": "Jones, Chavez and Perez Mouse",
+    "quantity": 295,
+    "targetQuantity": 951
+  },
+  {
+    "item": "Weber Ltd Laptop",
+    "quantity": 525,
+    "targetQuantity": 854
+  },
+  {
+    "item": "Roberts, Munoz and Hernandez Tablet",
+    "quantity": 133,
+    "targetQuantity": 840
+  },
+  {
+    "item": "Gonzalez, Tucker and Hill Printer",
+    "quantity": 322,
+    "targetQuantity": 348
+  },
+  {
+    "item": "Ewing LLC Watch",
+    "quantity": 437,
+    "targetQuantity": 258
+  },
+  {
+    "item": "Anderson-Mcbride Speaker",
+    "quantity": 256,
+    "targetQuantity": 900
+  },
+  {
+    "item": "Chapman-Henderson Tablet",
+    "quantity": 947,
+    "targetQuantity": 354
+  },
+  {
+    "item": "Bradley Ltd Headphones",
+    "quantity": 256,
+    "targetQuantity": 350
+  },
+  {
+    "item": "Smith-Henderson Speaker",
+    "quantity": 590,
+    "targetQuantity": 726
+  },
+  {
+    "item": "Lester, Dennis and Fowler Speaker",
+    "quantity": 284,
+    "targetQuantity": 201
+  },
+  {
+    "item": "Peterson LLC Camera",
+    "quantity": 542,
+    "targetQuantity": 821
+  },
+  {
+    "item": "Mahoney-Turner Camera",
+    "quantity": 396,
+    "targetQuantity": 174
+  },
+  {
+    "item": "Cohen-Dixon Printer",
+    "quantity": 663,
+    "targetQuantity": 245
+  },
+  {
+    "item": "Mcmillan, Johnson and Aguilar Headphones",
+    "quantity": 113,
+    "targetQuantity": 218
+  },
+  {
+    "item": "Myers-Carlson Tablet",
+    "quantity": 943,
+    "targetQuantity": 140
+  },
+  {
+    "item": "Allen Inc Headphones",
+    "quantity": 346,
+    "targetQuantity": 221
+  },
+  {
+    "item": "Freeman-Zamora Watch",
+    "quantity": 937,
+    "targetQuantity": 141
+  },
+  {
+    "item": "Jones, Hogan and Mccann Keyboard",
+    "quantity": 682,
+    "targetQuantity": 348
+  },
+  {
+    "item": "Lopez Group Printer",
+    "quantity": 131,
+    "targetQuantity": 878
+  },
+  {
+    "item": "Vargas Ltd Speaker",
+    "quantity": 416,
+    "targetQuantity": 243
+  },
+  {
+    "item": "Booker, Alvarez and Cox Laptop",
+    "quantity": 899,
+    "targetQuantity": 271
+  },
+  {
+    "item": "Petersen Group Tablet",
+    "quantity": 240,
+    "targetQuantity": 884
+  },
+  {
+    "item": "Wilson LLC Headphones",
+    "quantity": 520,
+    "targetQuantity": 250
+  },
+  {
+    "item": "Roberts, Day and Valencia Watch",
+    "quantity": 179,
+    "targetQuantity": 831
+  },
+  {
+    "item": "Watkins-Neal Phone",
+    "quantity": 600,
+    "targetQuantity": 242
+  },
+  {
+    "item": "Ruiz, Pittman and Mcneil Watch",
+    "quantity": 870,
+    "targetQuantity": 169
+  },
+  {
+    "item": "Hughes-Rodriguez Laptop",
+    "quantity": 161,
+    "targetQuantity": 232
+  },
+  {
+    "item": "Quinn Inc Speaker",
+    "quantity": 694,
+    "targetQuantity": 458
+  }
+]
