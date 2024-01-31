@@ -1,0 +1,91 @@
+[
+  {
+    "name": "North America",
+    "id": "NorthAmerica",
+    "color": "#FFA500"
+  },
+  {
+    "name": "United States",
+    "parent": "NorthAmerica",
+    "value": 300,
+    "color": "#FFD700"
+  },
+  {
+    "name": "California",
+    "parent": "United States",
+    "value": 50,
+    "color": "#FFA500"
+  },
+  {
+    "name": "Texas",
+    "parent": "United States",
+    "value": 150,
+    "color": "#FFD700"
+  },
+  {
+    "name": "New York",
+    "parent": "United States",
+    "value": 100,
+    "color": "#FFA500"
+  },
+  {
+    "name": "Canada",
+    "parent": "NorthAmerica",
+    "value": 150,
+    "color": "#FFD700"
+  },
+  {
+    "name": "Mexico",
+    "parent": "NorthAmerica",
+    "value": 80,
+    "color": "#FFA500"
+  },
+  {
+    "name": "Europe",
+    "id": "Europe",
+    "color": "#FFD700"
+  },
+  {
+    "name": "Germany",
+    "parent": "Europe",
+    "value": 80,
+    "color": "#FFA500"
+  },
+  {
+    "name": "France",
+    "id": "France",
+    "parent": "Europe",
+    "value": 180,
+    "color": "#FFD700"
+  },
+  {
+    "name": "Paris",
+    "parent": "France",
+    "value": 80,
+    "color": "#FFA500"
+  },
+  {
+    "name": "Marseille",
+    "parent": "France",
+    "value": 100,
+    "color": "#FFD700"
+  },
+  {
+    "name": "United Kingdom",
+    "parent": "Europe",
+    "value": 50,
+    "color": "#FFA500"
+  },
+  {
+    "name": "Italy",
+    "parent": "Europe",
+    "value": 100,
+    "color": "#FFD700"
+  },
+  {
+    "name": "Spain",
+    "parent": "Europe",
+    "value": 90,
+    "color": "#FFA500"
+  }
+]
